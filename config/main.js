@@ -1,6 +1,6 @@
 // This changes the title of your site
 
-var sitename = "how to make a paper airplane."; // Change this to change the name of your website.
+var sitename = "How To Make A Paper Airplane."; // Change this to change the name of your website.
 var subtext = "v1"; // set the subtext
 
 // more settings in main.css
